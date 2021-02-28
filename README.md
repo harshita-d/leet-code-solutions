@@ -1,8 +1,8 @@
 # leet-code Solutions in Python
 
  ![](https://miro.medium.com/fit/c/1838/551/1*gBkMCGTAdSk4tu17SCa7RQ.png)
- 
-1. [Best_Time_to_Buy_and_Sell_Stock_II](https://github.com/harshita-d/leet-code-solutions/blob/master/leetcode/Best_Time_to_Buy_and_Sell_Stock_II.py)
+
+- [Best_Time_to_Buy_and_Sell_Stock_II](https://github.com/harshita-d/leet-code-solutions/blob/master/leetcode/Best_Time_to_Buy_and_Sell_Stock_II.py)
 
 2. [Contains_Duplicate](https://github.com/harshita-d/leet-code-solutions/blob/master/leetcode/Contains_Duplicate.py)
 
