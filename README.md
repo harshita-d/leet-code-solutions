@@ -2,8 +2,11 @@
 
  ![](https://miro.medium.com/fit/c/1838/551/1*gBkMCGTAdSk4tu17SCa7RQ.png)
 
+- [Best_Time_to_Buy_and_Sell_Stock](https://github.com/harshita-d/leet-code-solutions/blob/master/leetcode/Best_Time_to_Buy_and_Sell_Stock.py)
+
 - [Best_Time_to_Buy_and_Sell_Stock_II](https://github.com/harshita-d/leet-code-solutions/blob/master/leetcode/Best_Time_to_Buy_and_Sell_Stock_II.py)
 
+- [Climbing_Stairs](https://github.com/harshita-d/leet-code-solutions/blob/master/leetcode/Climbing_Stairs.py)
 - [Contains_Duplicate](https://github.com/harshita-d/leet-code-solutions/blob/master/leetcode/Contains_Duplicate.py)
 
 - [Delete_Node_in_a_Linked_List](https://github.com/harshita-d/leet-code-solutions/blob/master/leetcode/Delete_Node_in_a_Linked_List.py)
